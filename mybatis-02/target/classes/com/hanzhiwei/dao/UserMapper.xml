@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- UserMapper.xml的作用类似UserDaoImpl-->
+<!--namespace绑定一个对应的DAO接口/Mapping接口 -->
+<!-- #{}取变量从parametertype中取作为形参 输入的对象-->
+<mapper namespace="com.hanzhiwei.dao.UserMapper">
+
+    <resultMap id="Userget" type="com.hanzhiwei.pojo.User">
+        <result column="pwd" property="password"></result>
+    </resultMap>
+
+
+    <select id="getUser" resultMap="Userget">
+    select * from user
+  </select>
+
+    <select id="getUserbyid" parameterType="int" resultType="com.hanzhiwei.pojo.User">
+
+        select * from mybatis.user where id=#{id}
+    </select>
+
+
+    <select id="getUserLimit" parameterType="map" resultMap="Userget">
+        select * from mybatis.user limit #{startIndex},#{pageSize}
+    </select>
+</mapper>

@@ -1,0 +1,29 @@
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-18ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 22671767.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@159f197]
+ãDEBUGãã21-10-18ããcom.hanzhiwei.dao.UserMapper.getUserã==>  Preparing: select * from user where id=?
+ãDEBUGãã21-10-18ããcom.hanzhiwei.dao.UserMapper.getUserã==> Parameters: 1(Integer)
+ãDEBUGãã21-10-18ããcom.hanzhiwei.dao.UserMapper.getUserã<==      Total: 0
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-18ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.

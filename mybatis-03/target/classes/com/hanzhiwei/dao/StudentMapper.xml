@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hanzhiwei.dao.StudentMapper">
+    <!--
+    多对一
+    获取student中外键的部分
+     1.首先对主键中的属性进行对象关系映射 查询所有学生信息
+     2.对外键的映射就需要借助于复杂的标签 并且同样需要关系映射 根据查询出来的学生的pid换取老师的信息
+     -->
+    <!-- 子查询-->
+<select id="getStudent" resultMap="StudentTeacher">
+    select * from student
+</select>
+    <resultMap id="StudentTeacher" type="com.hanzhiwei.pojo.Student" >
+        <result property="id" column="id"></result>
+        <result property="name" column="name"></result>
+        <!--复杂的属性需要单独处理 对象association 集合：collection-->
+        <association property="teacher" column="tid" javaType="Teacher" select="getTeacher"></association>
+    </resultMap>
+    <select id="getTeacher" resultType="Teacher">
+        select * from teacher where id=#{id}
+    </select>
+
+    <!-- 连表查询按照结果嵌套处理-->
+    <select id="getStudent2" resultMap="StudentTeacher2">
+        select s.id sid,s.name sname,t.name tname,t.id tid from student s,teacher t where s.tid=t.id
+    </select>
+    <resultMap id="StudentTeacher2" type="com.hanzhiwei.pojo.Student">
+        <result property="id" column="sid"></result>
+        <result property="name" column="sname"></result>
+        <association property="teacher" javaType="Teacher">
+            <result property="name" column="tname"></result>
+            <result property="id" column="tid"></result>
+        </association>
+    </resultMap>
+</mapper>

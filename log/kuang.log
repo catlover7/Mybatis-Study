@@ -1,0 +1,437 @@
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1684792003.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@646be2c3]
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã==>  Preparing: select * from mybatis.teacher where id=?
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã==> Parameters: 1(Integer)
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã<==      Total: 1
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1684792003.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@646be2c3]
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã==>  Preparing: select * from mybatis.teacher where id=?
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã==> Parameters: 1(Integer)
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã<==      Total: 1
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@646be2c3]
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@646be2c3]
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 1684792003 to pool.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1027591600.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3d3fcdb0]
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã==>  Preparing: select * from mybatis.teacher
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã==> Parameters: 
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã<==      Total: 1
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3d3fcdb0]
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3d3fcdb0]
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 1027591600 to pool.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1027591600.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3d3fcdb0]
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã==>  Preparing: select * from mybatis.teacher
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã==> Parameters: 
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.TeacherMapper.getTeacherã<==      Total: 1
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3d3fcdb0]
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3d3fcdb0]
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 1027591600 to pool.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 741669172.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2c34f934]
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.StudentMapper.getStudentã==>  Preparing: select * from student
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.StudentMapper.getStudentã==> Parameters: 
+ãDEBUGãã21-10-16ããcom.hanzhiwei.dao.StudentMapper.getStudentã<==      Total: 3
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2c34f934]
+ãDEBUGãã21-10-16ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2c34f934]
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 741669172 to pool.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-16ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1593180232.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5ef60048]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudentã==>  Preparing: select * from student
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudentã==> Parameters: 
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getTeacherã====>  Preparing: select * from teacher
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getTeacherã====> Parameters: 
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getTeacherã<====      Total: 1
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudentã<==      Total: 3
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5ef60048]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5ef60048]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 1593180232 to pool.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 765284253.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudentã==>  Preparing: select * from student
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudentã==> Parameters: 
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getTeacherã====>  Preparing: select * from teacher where id=?
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getTeacherã====> Parameters: 1(Integer)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getTeacherã<====      Total: 1
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudentã<==      Total: 3
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 765284253 to pool.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 765284253.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudent2ã==>  Preparing: select s.id sid,s.name sname,t.name tname,t.id tid from student s,teacher t where s.tid=t.id
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudent2ã==> Parameters: 
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudent2ã<==      Total: 3
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 765284253 to pool.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 765284253.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudentã==>  Preparing: select * from student
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudentã==> Parameters: 
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getTeacherã====>  Preparing: select * from teacher where id=?
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getTeacherã====> Parameters: 1(Integer)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getTeacherã<====      Total: 1
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudentã<==      Total: 3
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 765284253 to pool.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 765284253.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudent2ã==>  Preparing: select s.id sid,s.name sname,t.name tname,t.id tid from student s,teacher t where s.tid=t.id
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudent2ã==> Parameters: 
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.StudentMapper.getStudent2ã<==      Total: 3
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2d9d4f9d]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 765284253 to pool.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 370475881.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@16150369]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==>  Preparing: select s.id sid,s.name sname,t.name tname,t.id tid from student s,teacher t where s.tid=t.id and id=?
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==> Parameters: 1(Integer)
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1054932644.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3ee0fea4]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==>  Preparing: select s.id sid,s.name sname,t.name tname,t.id tid from student s,teacher t where s.tid=t.id and id=?
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==> Parameters: 1(Integer)
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1054932644.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3ee0fea4]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==>  Preparing: select s.id sid,s.name sname,t.name tname,t.id tid from student s,teacher t where s.tid=t.id and t.id=?
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==> Parameters: 1(Integer)
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1054932644.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3ee0fea4]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==>  Preparing: select s.id sid,s.name sname,t.name tname,t.id tid from student s,teacher t where s.tid=t.id and t.id=?
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==> Parameters: 1(Integer)
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1405747618.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@53ca01a2]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==>  Preparing: select s.id sid,s.name sname,t.name tname,t.id tid from student s,teacher t where s.tid=t.id and t.id=?
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==> Parameters: 1(Integer)
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1405747618.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@53ca01a2]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==>  Preparing: select s.id sid,s.name sname,t.name tname,t.id tid from student s,teacher t where s.tid=t.id and t.id=?
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã==> Parameters: 1(Integer)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher2ã<==      Total: 3
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1259769769.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4b168fa9]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher3ã==>  Preparing: select * from teacher where id=?;
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher3ã==> Parameters: 1(Integer)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getStudentã====>  Preparing: select * from student where tid=?
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getStudentã====> Parameters: 1(Integer)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getStudentã<====      Total: 3
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.TeacherMapper.getTeacher3ã<==      Total: 1
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1527430292.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5b0abc94]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==>  Preparing: insert into mybatis.blog(id,title,author,creat_time,views) values (?,?,?,?,?)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==> Parameters: 82252e9bd0a14a7bb06c6705e951ce2b(String), mysql is easy(String), hanhzi(String), 2021-10-17 13:10:30.493(Timestamp), 21(Integer)
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1527430292.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5b0abc94]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==>  Preparing: insert into mybatis.blog(id,title,author,creat_time,views) values (?,?,?,?,?)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==> Parameters: 9905c2aa16494990b977b9c274b27e26(String), mysql is easy(String), hanhzi(String), 2021-10-17 13:12:07.802(Timestamp), 21(Integer)
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 1527430292.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5b0abc94]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==>  Preparing: insert into mybatis.blog(id,title,author,creat_time,views) values (?,?,?,?,?)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==> Parameters: c66d97b309594efdb0d1a1106dc90780(String), mysql is easy(String), hanhzi(String), 2021-10-17 13:14:39.921(Timestamp), 21(Integer)
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 726950788.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2b546384]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==>  Preparing: insert into mybatis.blog(id,title,author,create_time,views) values (?,?,?,?,?)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==> Parameters: 7e9b6bb3e5c24885911269ec41e09802(String), mysql is easy(String), hanhzi(String), 2021-10-17 13:19:09.915(Timestamp), 21(Integer)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã<==    Updates: 1
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãCommitting JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2b546384]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2b546384]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2b546384]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 726950788 to pool.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.logging.LogFactoryãLogging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãPooledDataSource forcefully closed/removed all connections.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãOpening JDBC Connection
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãCreated connection 550752602.
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãSetting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@20d3d15a]
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==>  Preparing: insert into mybatis.blog(id,title,author,create_time,views) values (?,?,?,?,?)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==> Parameters: ace94fe2241448e9a75f10e9bc2c0247(String), mysql is easy(String), hanhzi(String), 2021-10-17 13:35:27.367(Timestamp), 21(Integer)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã<==    Updates: 1
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==>  Preparing: insert into mybatis.blog(id,title,author,create_time,views) values (?,?,?,?,?)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==> Parameters: ace94fe2241448e9a75f10e9bc2c0247(String), apache(String), hanhzi(String), 2021-10-17 13:35:27.367(Timestamp), 20(Integer)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã<==    Updates: 1
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==>  Preparing: insert into mybatis.blog(id,title,author,create_time,views) values (?,?,?,?,?)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã==> Parameters: ace94fe2241448e9a75f10e9bc2c0247(String), maven(String), hanhzi(String), 2021-10-17 13:35:27.367(Timestamp), 19(Integer)
+ãDEBUGãã21-10-17ããcom.hanzhiwei.dao.BolgMapper.insertBlogã<==    Updates: 1
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãCommitting JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@20d3d15a]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãResetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@20d3d15a]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.transaction.jdbc.JdbcTransactionãClosing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@20d3d15a]
+ãDEBUGãã21-10-17ããorg.apache.ibatis.datasource.pooled.PooledDataSourceãReturned connection 550752602 to pool.
